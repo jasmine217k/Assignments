@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem4 {
+public class HarmonicValue {
 
     public static void main(String[] args)
     {

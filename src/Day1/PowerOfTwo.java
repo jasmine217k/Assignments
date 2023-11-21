@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem3 {
+public class PowerOfTwo {
 
     public static void main(String[]args)
     {

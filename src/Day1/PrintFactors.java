@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem5 {
+public class PrintFactors {
 
     public static void main(String[] args)
     {

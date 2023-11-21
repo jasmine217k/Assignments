@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem6 {
+public class Division {
 
     public static void main(String[] args)
     {

@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem9 {
+public class VowelAndConsonant {
 
     public static void main(String[] args)
     {

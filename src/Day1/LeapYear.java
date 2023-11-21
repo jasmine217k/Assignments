@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem2 {
+public class LeapYear {
 
     static boolean checkDigit(int number)
     {

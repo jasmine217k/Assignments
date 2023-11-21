@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem8 {
+public class EvenOdd {
 
     public static void main(String[] args)
     {

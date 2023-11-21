@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Problem10 {
+public class MaxOfThreeNum {
 
     public static void main(String[] args)
     {
