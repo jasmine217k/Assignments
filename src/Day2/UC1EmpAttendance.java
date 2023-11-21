@@ -9,9 +9,9 @@ public class UC1EmpAttendance {
         double attendance= Math.floor(Math.random()*10) % 2;
 
         if(attendance == PRESENT)
-            System.out.println("The employee is present");
+            System.out.println("The Employee is present");
         else
-            System.out.println("The employee is absent");
+            System.out.println("The Employee is absent");
 
     }
 }
